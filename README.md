@@ -25,7 +25,7 @@
  
  ---
 <div align="center">
-📫 Como me encontrar: 
+📫 Você pode entrar em contato comigo através do meu:
  
    <a href="https://www.linkedin.com/in/marianacristinadiasdossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marianacristinasantos05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
