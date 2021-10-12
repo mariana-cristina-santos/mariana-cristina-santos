@@ -3,7 +3,7 @@
 :octocat: Bem vindo (a) ao meu GitHub!
  
 
-  👩‍💻 Meu nome é Mariana Cristina e tenho 26 anos.
+  👩‍💻 Meu nome é Mariana Cristina e tenho 26 anos
  
   🎓 Bacharel em Direito (2020)
  
@@ -33,12 +33,10 @@
 
 ---
 
-
-
 <div align="center">
   <a href="https://github.com/mmcrisx">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mmcrisx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmcrisx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmcrisx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmcrisx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
    ---  
@@ -46,3 +44,6 @@
 
 ![](https://komarev.com/ghpvc/?username=mmcrisx&color=blue&style=flat)
  </div>
+
+ 
+ 
