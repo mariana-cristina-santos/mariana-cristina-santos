@@ -37,6 +37,7 @@
   <a href="https://github.com/mmcrisx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmcrisx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmcrisx&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmcrisx&show=anuraghazra&show_icons=true&theme=dracula"/>
 </div>
 
    ---  
@@ -44,6 +45,8 @@
 
 ![](https://komarev.com/ghpvc/?username=mmcrisx&color=blue&style=flat)
  </div>
+ 
+ 
 
  
  
