@@ -1,15 +1,19 @@
 <div align="center">
 
-:octocat: Bem vindo (a) ao meu GitHub!
+ :octocat: <h1>Bem vindo (a) ao meu GitHub!</h1>
  
 
-  👩‍💻 Meu nome é Mariana Cristina e tenho 26 anos
+  👩‍💻 Meu nome é Mariana Cristina Dias dos Santos e tenho 26 anos
  
   🎓 Bacharel em Direito (2020)
  
   🔄 Atualmente estou em transição de carreira para aréa de desenvolvimento Web (Resília Educação - Turma 07)
  
   📌 Moro em Itararé, São Paulo
+ 
+  ❤️ Amo assitir filmes e séries de suspense/mistério
+ 
+  🥋 Pratico Muay Thai e sou faixa branca ponta vermelha
  </div>
 
  ---
