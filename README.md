@@ -1,4 +1,4 @@
-## Olá, :earth_americas:! Meu nome é Mariana Cristina Santos :dizzy: 
+## Olá, :earth_americas:! Meu nome é Mariana Cristina Dias dos Santos :dizzy: 
 <img align="right" width="200" src="https://media0.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=ecf05e47lvqdirrebclp6lrt1zs4s1io6gr1vdkupbvtch9r&rid=giphy.gif&ct=g"/>
 
 ### Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos ao longo do bootcamp WebDev Full-Stack da Resilia Educação.
